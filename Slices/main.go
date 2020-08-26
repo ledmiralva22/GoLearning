@@ -29,6 +29,7 @@ func main() {
 	//create a new slice using the range especified in the brackets
 	slice5 := slice2[1:2]
 	//THIS IS A CHANGE
+	//THIS IS A CHANGE
 
 	fmt.Println(slice3, slice4, slice5)
 }
